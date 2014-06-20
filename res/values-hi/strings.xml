@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- HINDI -->
+
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_download">Charging</string>
+    <string name="title_activity_play_video">PlayVideo</string>
+    <string name="title_activity_satsang_start">SatsangStartActivity</string>
+    <string name="title_activity_pravachan">PravachanActivity</string>
+    <string name="title_activity_get_marquee">GetMarqueeActivity</string>
+    <string name="app_name"> Santsang </string>
+    <string name="hello_world"> Hello world! </string>
+    <string name="welcome">सत्संग समारोह मे आप का स्वागत है \u0020</string>
+    <string name="mantraLabel">हम स्वामी जी के मंत्र का जाप करते हैं \u0020</string>
+    <string name="mantraError">तकनीकी समस्या के कारण आज प्रवचन सुना या नहीं देखा जा सकता \u0020</string>
+    <string name="startsantasang">सत्संग शुरू हो रहा है \u0020</string>
+    <string name="strtat"> बजे शुरू होगा \u0020</string>
+    <string name="startdownloading"> सत्संग का प्रवचन डाउनलोड हो रहा है \u0020</string>
+    <string name="err100"> सर्वर के साथ संपर्क नहीं हो रहा है \u0020 </string>
+    <string name="err101"> (101)सेटअप बॉक्स में खराबी है,कृपया संसथान से संपर्क करें \u0020</string>
+    <string name="err103"> (103)सर्वर के साथ संपर्क नहीं हो रहा है,कृपया फिर से कोशिश करें \u0020 </string>
+    <string name="err104"> (104)सेटअप बॉक्स में खराबी है,कृपया संसथान से संपर्क करें \u0020</string>
+    <string name="err105v"> (105v)सेटअप बॉक्स में खराबी है,कृपया संसथान से संपर्क करें \u0020</string>
+    <string name="err106"> (106)सेटअप बॉक्स में खराबी है,कृपया संसथान से संपर्क करें \u0020 </string>
+    <string name="err107"> (107)सर्वर के साथ संपर्क नहीं हो रहा है,कृपया फिर से कोशिश करें \u0020 </string>
+    <string name="err108"> (108)सेटअप बॉक्स में खराबी है \u0020 </string>
+    <string name="err404s"> (404s)सेटअप बॉक्स में खराबी है,कृपया संसथान से संपर्क करें \u0020 </string>
+    <string name="err404p"> (404p)सेटअप बॉक्स में खराबी है,कृपया संसथान से संपर्क करें \u0020</string>
+    <string name="error105A"> (105A) सेटअप बॉक्स में खराबी है,कृपया संसथान से संपर्क करें \u0020 </string>
+    <string name="aeroplane"> कृपया ऐरप्लेने मोड बंद करें \u0020</string>
+    <string name="nointernet"> इंटरनेट की सुविधा बंद है,कृपया चालू करवाइये \u0020</string>
+    <string name="nointernetStartagain"> इंटरनेट की  सुविधा बंद है,कृपया फिर से डाउन लोड करें \u0020</string>
+    <string name="servicestop"> आप की सेवा बंद कर दी गयी है \u0020</string>
+    <string name="remainingtime"> समय शेष \u0020 </string>
+    <string name="simcard"> कृपया सिम कार्ड डालिये \u0020 </string>
+    <string name="santasangfinish"> श्री गुरुदेव! सत्संग समाप्त \u0020</string>
+    <string name="end"> समाप्त \u0020</string>
+    <string name="finishdownloading"> डाउनलोड समाप्त \u0020</string>
+    <string name="Santasang"> सत्संग समारोह  \u0020</string>
+    <string name="update">सॉफ्टवेर अपडेट हो  रहा है, कृपया प्रतीक्षा करें \u0020</string>
+
+</resources>

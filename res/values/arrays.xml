@@ -1,0 +1,11 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string-array name="ftp">
+	<item name="media.satsangFiles.hostname">50.62.72.43</item>
+	<item name="media.satsangFiles.port">990</item>
+	<item name="ftp.server.username">tbftpurbuser1</item>
+	<item name="ftp.server.password">!Sg7@uRb21</item>
+	<item name="media.satsang.ftp.download.timeout">30000</item>
+	<item name="media.satsang.ftp.download.keepAlive"></item>
+	</string-array>
+    
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="local.media.files.directory">/sdcard/livesatsang/download/</string>
+    <string name="local.splash.progressbar.leadtime">2</string>
+    <string name="media.schedule.directory">/sdcard/livesatsang/schedule/</string>
+    <string name="media.schedule.fileName">pravachan.dat</string>
+    <string name="local.downloaded.files.number">4</string>
+    <string name="satsang.files.directory">/sdcard/livesatsang/local/</string>
+    <string name="satsang.default.play.dayOfWeek">SUNDAY</string>
+    <string name="satsang.default.play.time">09:00</string>
+    <string name="local.default.locale">MAR</string>
+    <string name="satsang.audit.fileName">/sdcard/livesatsang/schedule/audit.dat</string>
+</resources>

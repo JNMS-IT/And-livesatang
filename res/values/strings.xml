@@ -1,0 +1,13 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="hello">Hello</string>
+    <string name="ftp">media.satsangFiles.hostname=124.124.83.147#
+        media.satsangFiles.port=990#
+        ftp.server.username=tsfustrp#
+        ftp.server.password=Temp1234#
+    </string>
+    <!-- Final release change following values -->
+    <string name="media.satsangFiles.hostname">124.124.83.147</string>
+    <string name="media.satsangFiles.port">990</string>
+    <string name="ftp.server.username">tsfustrp</string>
+    <string name="ftp.server.password">Temp1234</string>
+</resources>
