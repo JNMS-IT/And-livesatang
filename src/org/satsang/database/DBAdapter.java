@@ -139,7 +139,7 @@ public class DBAdapter {
 	
 	public void deleteOldVersionBhajansFromDb(String latestBhajanFile)
 	{
-		 Log.info(" Deleting Old Version Bhajans From DB ");
+		 Log.info("Deleting Old Version Bhajans From DB");
 		 String delete = "DELETE FROM "+ MEDIA_SCHEDULES_TABLE+ " WHERE  scheduleType=\'"+Constants.BHAJAN + "\' and fileName <>\'"+latestBhajanFile + "\';";
 		 deleteRecordsAsPerQuery(delete);
 		 Log.debug("After Deleting Old Version Bhajans From DB");
